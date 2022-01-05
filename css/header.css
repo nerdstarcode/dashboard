@@ -12,6 +12,10 @@
     --black1:#222;
     --black2: #999;
     --grey: #ccc;
+    --deliv: #8de02c;
+    --pend: #f00;
+    --return: #f9ca3f;
+    --prog: #1795ce;
 }
 body{
     min-height: 100vh;
