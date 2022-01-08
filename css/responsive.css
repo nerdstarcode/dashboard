@@ -1,5 +1,9 @@
 
 @media (max-width: 911px){
+    .graphBox{
+        grid-template-columns: 1fr;
+        height: auto;
+    }
     .navigation{
         left: -300px;
     }
